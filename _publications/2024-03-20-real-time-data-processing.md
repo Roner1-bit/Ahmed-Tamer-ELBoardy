@@ -1,6 +1,7 @@
 ---
 title: "Optimizing Real-Time Data Processing in Resource-Constrained Environments: A Spark and GPU-Driven Workflow for Large Language Models"
 collection: publications
+category: conferences
 permalink: /publication/2024-03-20-real-time-data-processing
 excerpt: 'This paper explores a Spark and GPU-driven workflow for efficient real-time data processing of LLMs.'
 date: 2024-03-20

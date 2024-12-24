@@ -1,6 +1,7 @@
 ---
 title: "Natural Language Processing: Text Categorization and Classifications"
 collection: publications
+category: manuscripts
 permalink: /publication/2020-11-10-nlp-text-categorization
 excerpt: 'This paper covers advanced techniques for text categorization and classification using NLP methods.'
 date: 2020-11-10

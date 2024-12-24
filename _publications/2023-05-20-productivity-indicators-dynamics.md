@@ -1,6 +1,7 @@
 ---
 title: "Predicting the Productivity Indicators of a Society Using Workforce Behavior Dynamics"
 collection: publications
+category: challenge
 permalink: /publication/2023-05-20-productivity-indicators-dynamics
 excerpt: 'This project predicts productivity indicators based on workforce behavior dynamics.'
 date: 2023-05-20

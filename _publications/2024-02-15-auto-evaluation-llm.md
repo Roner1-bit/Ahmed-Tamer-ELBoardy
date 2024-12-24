@@ -1,6 +1,7 @@
 ---
 title: "Hands-on Analysis of Using Large Language Models for the Auto Evaluation of Programming Assignments"
 collection: publications
+category: manuscripts
 permalink: /publication/2024-02-15-auto-evaluation-llm
 excerpt: 'This paper investigates the use of LLMs for automatic evaluation of programming assignments.'
 date: 2024-02-15

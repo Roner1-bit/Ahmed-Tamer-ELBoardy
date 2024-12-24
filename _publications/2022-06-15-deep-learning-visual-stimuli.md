@@ -1,6 +1,7 @@
 ---
 title: "Deep Learning Approaches for Analyzing Visual Stimuli from Human fMRI"
 collection: publications
+category: conferences
 permalink: /publication/2022-06-15-deep-learning-visual-stimuli
 excerpt: 'This paper discusses the use of deep learning techniques for analyzing visual stimuli from human fMRI.'
 date: 2022-06-15

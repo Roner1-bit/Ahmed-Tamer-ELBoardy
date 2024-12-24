@@ -1,6 +1,7 @@
 ---
 title: "SliceInsightNet: Advanced Hybrid Image Segmentation for Spine Annotation in MRI"
 collection: publications
+category: conferences
 permalink: /publication/2024-03-10-sliceinsightnet-segmentation
 excerpt: 'This paper presents a hybrid image segmentation model for spine annotation in MRI data.'
 date: 2024-03-10

@@ -1,6 +1,7 @@
 ---
 title: "Generating Application Traffic Data from Tax Data: A Synthetic Data Approach"
 collection: publications
+category: challenge
 permalink: /publication/2023-05-10-synthetic-data-approach
 excerpt: 'This project introduces a synthetic data approach for generating application traffic data from tax data.'
 date: 2023-05-10

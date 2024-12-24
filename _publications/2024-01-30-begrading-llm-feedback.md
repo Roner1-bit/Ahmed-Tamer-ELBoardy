@@ -1,6 +1,7 @@
 ---
 title: "BeGrading: Large Language Models for Enhanced Feedback in Programming Education"
 collection: publications
+category: manuscripts
 permalink: /publication/2024-01-30-begrading-llm-feedback
 excerpt: 'This paper explores the application of LLMs to provide enhanced feedback in programming education.'
 date: 2024-01-30
