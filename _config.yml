@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Whaba Mina"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Mina Atef Yousef Wahba"
 description              : &description "personal description"
 url                      : https://mina98.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -25,7 +25,7 @@ author:
   name             : "Mina Atef Yousef Wahba"
   pronouns         : # example: "she/her"  
   bio              : "LLM | Deep Learning | Machine Learning"
-  location         : "Earth"
+  location         : "Egypt"
   employer         : "Nile University"
   uri              : # URL
   email            : "minaatef@fci.helwan.edu.eg" 
@@ -133,7 +133,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -221,12 +221,15 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  # portfolio:
-  #   output: true
-  #   permalink: /:collection/:path/
+  research:
+    output: true
+    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
+  industry:
+    output: true
+    permalink: /:collection/:path/  
 
 
 # These settings control how pages and collections are included in the site
@@ -258,6 +261,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  - scope:
+      path: ""
+      type: industry
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+      
   # _publications
   - scope:
       path: ""
@@ -267,16 +279,16 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
-  # - scope:
-  #     path: ""
-  #     type: portfolio
-  #   values:
-  #     layout: single
-  #     author_profile: true
-  #     share: true
-  #     comment: true
-  # _talks
+  # _research
+  - scope:
+      path: ""
+      type: research
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # # _talks
   - scope:
       path: ""
       type: talks

@@ -11,35 +11,31 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Master's in Informatics, Nile University, 2023 – 2025  
+  Thesis: Optimization of Large Language Models (LLMs) for Educational Applications
+* BSc in Computer Science, Helwan University, 2016 – 2020  
+  Major: Computer Science, Minor: Information Systems  
+* RIKEN International HPC Summer School, RIKEN, Japan, 2024 (Online)  
+  Focused on High-Performance Computing and its applications
 
-Work experience
+Work Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Research
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+ <ul>{% for post in site.posts reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+## Teaching
+
+  <ul>{% for post in site.teaching reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+## Industry
+
+
 
 Publications
 ======
@@ -47,18 +43,19 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Teaching
+Skills
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+* Programming: Python, C++, Java, JavaScript, SQL
+* Frameworks and Libraries: TensorFlow, PyTorch, Keras ,Scikit-learn, Pandas, Numpy, ReactJS, Power BI
+* Tools & Technologies: Linux, Windows, Bash, LaTeX, Django, FastAPI
+
+<!-- 
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
