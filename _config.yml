@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Whaba Mina"
+title                    : "Wahba Mina"
 title_separator          : "-"
 name                     : &name "Mina Atef Yousef Wahba"
 description              : &description "personal description"
