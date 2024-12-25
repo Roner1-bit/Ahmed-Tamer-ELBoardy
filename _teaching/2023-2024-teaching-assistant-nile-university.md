@@ -4,7 +4,8 @@ collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/2023-2024-teaching-assistant-nile-university
 venue: "Nile University, Department of Computer Science"
-date: 2023-01-01
+date: 2023-05-20
+date_end: 2024-03-15
 location: "Cairo, Egypt"
 ---
 
