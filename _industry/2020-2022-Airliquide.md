@@ -5,7 +5,7 @@ type: "Secuirty"
 permalink: /industry/2/
 venue: "Airliquide"
 date: 2020-10-01
-end_date: 2022-10-01
+date_end: 2022-10-01
 location: "Cairo, Egypt"
 ---
 - Conducted vulnerability assessments and implemented patch management solutions.  
