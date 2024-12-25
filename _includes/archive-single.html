@@ -40,31 +40,12 @@
 
         {% if post.collection == 'teaching' %}
           <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
-          <!-- {% elsif post.collection == 'industry' %}
-          <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p> -->
-
-          {% elsif post.collection == 'publications' %}
+        {% elsif post.collection == 'publications' %}
           <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
-          {% elsif post.date %}
-          <p class="page__date">
-            <strong>
-              <i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time><strong> {{ site.data.ui-text[site.locale].date_end | default: "Published:" }}</strong> <time datetime="{{ post.date_end | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date_end | default: "Present" | date: "%B %d, %Y" }}</time></strong></p>
-
-          {% elsif post.date_end %}
-        {{post.date_end}}
-          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_end | default: "Published:" }}</strong>
-            <time datetime="{{ post.date_end | default: '1900-01-01' | date_to_xmlschema }}">
-              {% if post.date_end == "1900-01-01" or post.date_end == blank %}
-                Present
-              {% else %}
-                {{ post.date_end | date: "%B %d, %Y" }}
-              {% endif %}
-            </time>
-          </p>
-        {% else %}
-          <p class="page__date">Present</p>
-        {% endif %}
+        {% elsif post.date %}
+         <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time><strong> {{ site.data.ui-text[site.locale].date_end | default: "Published:" }}</strong> <time datetime='{{ post.date_end | default: "1900-01-01" | date_to_xmlschema }}'>{{ post.date_end | default: "Present" | date: "%B %d, %Y" }}</time></strong></p>
         
+         {% endif %}
 
     {% if post.excerpt and site.read_more != 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>

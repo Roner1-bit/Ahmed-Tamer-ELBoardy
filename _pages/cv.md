@@ -35,6 +35,9 @@ Work Experience
 
 ## Industry
 
+  <ul>{% for post in site.industry reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
 
 Publications
