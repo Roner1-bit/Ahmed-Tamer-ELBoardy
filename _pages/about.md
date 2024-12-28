@@ -7,21 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-A dedicated researcher and developer specializing in Machine Learning, Natural Language Processing, and Large
-Language Models (LLMs), with a strong record in research academia and industry.
-
 About Mina
 ======
-Mina is a researcher, developer, and educator specializing in Machine Learning, Natural Language Processing, and Large Language Models (LLMs). He is currently a Research Assistant Assistant at Nile University, focusing on optimizing LLMs for educational applications and conducting research in AI and computational efficiency.
+Mina is a researcher, developer, and educator specializing in Machine Learning, Natural Language Processing, Deep Learning, and Large Language Models (LLMs). As a Research Assistant at Nile University, he focuses on enhancing LLMs for education and advancing AI efficiency.
 
-He holds a BSc in Computer Science from Helwan University and is pursuing a Master's in Informatics at Nile University. His experience spans both academia and industry, with expertise in AI, vulnerability management, and software engineering.
+He graduated with a Bachelor’s degree in Computer Science from Helwan University in 2020 and is now pursuing a Master’s in Informatics at Nile University.
 
-Mina has contributed to education as a trainer for Samsung Innovation Campus and a teaching assistant in courses like Artificial Intelligence and Computer Vision. His leadership roles include chairing sessions at conferences and reviewing for prominent AI journals and events.
+Mina has taught Artificial Intelligence and Computer Vision as a teaching assistant and trained students in the Samsung Innovation Campus program. He has chaired conference sessions, reviewed AI journals, and worked on international projects, including an internship at RIKEN in Japan.
 
-He has also gained international exposure through an R&D internship at RIKEN, Japan, focusing on High-Performance Computing, and has published research advancing the field of AI.
-
-Mina’s work reflects his dedication to innovation and bridging the gap between academic research and practical applications in AI.
-Getting started
+With experience in AI, software engineering, and vulnerability management, Mina applies academic research to practical challenges, advancing AI and technology in meaningful ways.
 
 
 Features
@@ -32,7 +26,7 @@ Features
 Posters at Netmob 2023
 ====
 
-The following posters were presented at **[Netmob 2023](https://netmob.org/www23/)**, showcasing innovative research in network mobility, traffic prediction, and data analysis.
+The posters showcased cutting-edge research in network mobility, traffic prediction, and data analysis at **[Netmob 2023](https://netmob.org/www23/)**.
 
 <div style="display: flex; justify-content: space-between;">
   <img src="../images/FMLDSimage.jpg" alt="Presentation at FMLDS 2024" title="Presentation at FMLDS 2024" style="width: 49%;"/>
