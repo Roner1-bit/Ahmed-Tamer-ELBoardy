@@ -9,11 +9,11 @@ redirect_from:
 
 About Mina
 ======
-Mina is a researcher, developer, and educator specializing in Machine Learning, Natural Language Processing, Deep Learning, and Large Language Models (LLMs). As a Research Assistant at Nile University, he focuses on enhancing LLMs for education and advancing AI efficiency.
+Mina is a researcher, developer, and educator specializing in Machine Learning, Natural Language Processing, Deep Learning, and Large Language Models (LLMs). As a Research Assistant at Nile University, Mina focuses on enhancing LLMs for education and advancing AI efficiency.
 
-He graduated with a Bachelor’s degree in Computer Science from Helwan University in 2020 and is now pursuing a Master’s in Informatics at Nile University.
+Mina graduated with a Bachelor’s degree in Computer Science from Helwan University in 2020 and is now pursuing a Master’s in Informatics at Nile University.
 
-Mina has taught Artificial Intelligence and Computer Vision as a teaching assistant and trained students in the Samsung Innovation Campus program. He has chaired conference sessions, reviewed AI journals, and worked on international projects, including an internship at RIKEN in Japan.
+Mina has taught Artificial Intelligence and Computer Vision as a teaching assistant and trained students in the Samsung Innovation Campus program. also, has chaired conference sessions, reviewed AI journals, and worked on international projects, including an internship at RIKEN in Japan.
 
 With experience in AI, software engineering, and vulnerability management, Mina applies academic research to practical challenges, advancing AI and technology in meaningful ways.
 
