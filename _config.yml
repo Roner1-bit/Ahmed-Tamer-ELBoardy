@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Wahba Mina"
+title                    : "Wahba, Mina"
 title_separator          : "-"
 name                     : &name "Mina Atef Yousef Wahba"
 description              : &description "personal description"
@@ -29,7 +29,7 @@ author:
   employer         : "Nile University"
   uri              : # URL
   email            : "minaatef@fci.helwan.edu.eg" 
-  email            : "myousef@nu.edu.eg" 
+  # email            : "myousef@nu.edu.eg" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -84,7 +84,7 @@ publication_category:
   conferences:
     title: 'Conference Papers'
   challenge:
-    title: 'challenge'  
+    title: 'Poster'  
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
